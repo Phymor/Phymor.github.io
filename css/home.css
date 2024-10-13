@@ -1,18 +1,21 @@
-			.content{
+			.content {
 				width: 60%;
 				height: 300px;
 				margin: 50px auto;
 			}
-			.h2{
+
+			.h2 {
 				font-family: "楷体";
 				font-size: 26px;
 				font-weight: 600;
 				margin-bottom: 15px;
 			}
-			.h2:hover{
+
+			.h2:hover {
 				color: #337ab7;
 			}
-			.text{
+
+			.text {
 				font-family: "宋体";
 				font-size: 16px;
 				font-weight: 600px;
@@ -23,17 +26,36 @@
 				overflow: hidden;
 				text-overflow: ellipsis;
 			}
-			.text:hover{
-				color:#2b79c3;
+
+			.text:hover {
+				color: #2b79c3;
 			}
-			.text_en{
-				font-family: "lora","times new roman";
+
+			.question {
+				margin-bottom: 20px;
+				/* 可以设置问答之间的间距 */
+			}
+
+			.question p {
+				margin: 0;
+				/* 去掉段落的默认边距 */
+				font-weight: bold;
+				/* 可以选择加粗问题文本 */
+			}
+
+			.text_en {
+				font-family: "lora", "times new roman";
 				font-size: 18px;
 				font-weight: 400px;
 				margin-bottom: 10px;
-				color: #808080;
+				margin-left: 0;
+				/* 确保左对齐 */
+				padding-left: 0;
+				/* 去掉内边距 */
+				color: #4210e8;
 			}
-			.item{
+
+			.item {
 				margin-bottom: 30px;
 				border-bottom: 1px solid gainsboro;
 			}
