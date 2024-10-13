@@ -44,12 +44,28 @@
 				margin-top: 35px;
 			}
 
+			.answer {
+				text-align: left;
+				/* 左对齐 */
+				font-family: Arial, sans-serif;
+				/* 设置字体 */
+				font-size: 20px;
+				/* 设置字体大小 */
+				color: #d35858;
+				/* 设置字体颜色 */
+				margin-top: 10px;
+				/* 可选，设置段落上方的间距 */
+				margin-bottom: 20px;
+				/* 可选，设置段落下方的间距 */
+			}
+
 			.question p {
 				margin: 0;
 				/* 去掉段落的默认边距 */
 				font-weight: bold;
 				/* 可以选择加粗问题文本 */
 			}
+
 
 			.text_en {
 				font-family: "lora", "times new roman";
