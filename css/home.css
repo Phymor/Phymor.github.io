@@ -36,6 +36,14 @@
 				/* 可以设置问答之间的间距 */
 			}
 
+			.title {
+				font-family: "微软雅黑";
+				color: black;
+				font-size: 35px;
+				font-weight: 700;
+				margin-top: 35px;
+			}
+
 			.question p {
 				margin: 0;
 				/* 去掉段落的默认边距 */
