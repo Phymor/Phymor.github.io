@@ -1,3 +1,6 @@
 # My personal website
 
-## 暂用简易版，后续会逐步完善。
+[click here to access](https://phymor.github.io/)
+
+**Phymor's blog**
+
